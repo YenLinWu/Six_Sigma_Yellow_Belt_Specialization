@@ -11,18 +11,18 @@ Course 4: [Six Sigma Tools for Improve and Control]()
 - [About this Course](https://www.coursera.org/learn/six-sigma-principles)
 - Practice and Quiz  
   - Week 1  
-    [Six Sigma Foundations and Principles Practice]()  
-    [Six Sigma Foundations and Principles Quiz]()  
-    [Six Sigma Roles and Responsibilities Practice]()  
-    [Six Sigma Roles and Responsibilities Quiz]()
+    [Six Sigma Foundations and Principles Practice](./Six_Sigma_Principles/Six_Sigma_Foundations_and_Principles_Practice.pdf)  
+    [Six Sigma Foundations and Principles Quiz](./Six_Sigma_Principles/Six_Sigma_Foundations_and_Principles_Quiz.pdf)   
+    [Six Sigma Roles and Responsibilities Practice](./Six_Sigma_Principles/Six_Sigma_Roles_and_Principles_Practice.pdf)    
+    [Six Sigma Roles and Responsibilities Quiz](./Six_Sigma_Principles/Six_Sigma_Roles_and_Principles_Quiz.pdf)    
   - Week 2    
-    [Quality Tools and Six Sigma Metrics Quiz]()  
+    [Quality Tools and Six Sigma Metrics Quiz](./Six_Sigma_Principles/Quality_Tools_and_Six_Sigma_Metrics_Quiz.pdf)    
   - Week 3    
-    [Team Basics Practice]()  
-    [Team Basics Graded Quiz]()  
+    [Team Basics Practice](./Six_Sigma_Principles/Team_Basics_Practice.pdf)     
+    [Team Basics Graded Quiz](./Six_Sigma_Principles/Team_Basics_Graded_Quiz.pdf)    
   - Week 4  
-    [Lean Foundations and Principles Practice Quiz]()  
-    [Lean Foundations and Principles Graded Quiz]()  
+    [Lean Foundations and Principles Practice Quiz](./Six_Sigma_Principles/Lean_Foundations_and_Principles_Practice_Quiz.pdf)    
+    [Lean Foundations and Principles Graded Quiz](./Six_Sigma_Principles/Lean_Foundations_and_Principles_Graded_Quiz.pdf)  
  
 - Reference
   - [60 Common Examples of Poka Yoke - Lean Factories](https://leanfactories.com/poka-yoke-examples-error-proofing-in-manufacturing-daily-life/)
