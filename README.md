@@ -13,8 +13,8 @@ Course 4: [Six Sigma Tools for Improve and Control]()
   - Week 1  
     [Six Sigma Foundations and Principles Practice](./Six_Sigma_Principles/Six_Sigma_Foundations_and_Principles_Practice.pdf)  
     [Six Sigma Foundations and Principles Quiz](./Six_Sigma_Principles/Six_Sigma_Foundations_and_Principles_Quiz.pdf)   
-    [Six Sigma Roles and Responsibilities Practice](./Six_Sigma_Principles/Six_Sigma_Roles_and_Principles_Practice.pdf)    
-    [Six Sigma Roles and Responsibilities Quiz](./Six_Sigma_Principles/Six_Sigma_Roles_and_Principles_Quiz.pdf)    
+    [Six Sigma Roles and Responsibilities Practice](./Six_Sigma_Principles/Six_Sigma_Roles_and_Responsibilities_Practice.pdf)    
+    [Six Sigma Roles and Responsibilities Quiz](./Six_Sigma_Principles/Six_Sigma_Roles_and_Responsibilities_Quiz.pdf)    
   - Week 2    
     [Quality Tools and Six Sigma Metrics Quiz](./Six_Sigma_Principles/Quality_Tools_and_Six_Sigma_Metrics_Quiz.pdf)    
   - Week 3    
