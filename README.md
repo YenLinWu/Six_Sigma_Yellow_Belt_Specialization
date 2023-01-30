@@ -35,6 +35,9 @@ Course 4: [Six Sigma Tools for Improve and Control]()
 - Practice and Quiz  
   - Week 1  
     [Measurement System Analysis Practice](./Six_Sigma_Tools_for_Analyze/Measurement_System_Analysis_Practice.pdf)  
-    [Measurement System Analysis Quiz](./Six_Sigma_Tools_for_Analyze/Measurement_System_Analysis_Quiz.pdf)   
+    [Measurement System Analysis Quiz](./Six_Sigma_Tools_for_Analyze/Measurement_System_Analysis_Quiz.pdf)  
+
+- Reference
+  - [Measurement Systems Analysis (MSA)](https://sixsigmastudyguide.com/measurement-systems-analysis/)
     
  Back to [About this Specialization](#About_this_Specialization)
