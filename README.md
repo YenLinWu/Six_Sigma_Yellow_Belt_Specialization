@@ -1,10 +1,10 @@
-# Six Sigma Yellow Belt Specialization  
+# Six Sigma Yellow Belt Specialization  ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  
 
 ## About_this_Specialization
 There are 4 Courses in this Specialization:  
-Course 1: [Six Sigma Principles](#Six_Sigma_Principles)  
+Course 1: [Six Sigma Principles](#Six-Sigma-Principles)  
 Course 2: [Six Sigma Tools for Define and Measure]()    
-Course 3: [Six Sigma Tools for Analyze](#Six_Sigma_Tools_for_Analyze)    
+Course 3: [Six Sigma Tools for Analyze](#Six-Sigma-Tools-for-Analyze)    
 Course 4: [Six Sigma Tools for Improve and Control]()    
 
 ## Six Sigma Principles  
@@ -36,6 +36,12 @@ Course 4: [Six Sigma Tools for Improve and Control]()
   - Week 1  
     [Measurement System Analysis Practice](./Six_Sigma_Tools_for_Analyze/Measurement_System_Analysis_Practice.pdf)  
     [Measurement System Analysis Quiz](./Six_Sigma_Tools_for_Analyze/Measurement_System_Analysis_Quiz.pdf)  
+  - Week 2   
+    [Process Analysis Tools Practice](./Six_Sigma_Tools_for_Analyze/Process_Analysis_Tools_Practice.pdf)   
+    [Process Analysis Tools Quiz](./Six_Sigma_Tools_for_Analyze/Process_Analysis_Tools_Quiz.pdf)  
+  - Week 3   
+    [Root Cause Analysis Practice](./Six_Sigma_Tools_for_Analyze/Root_Cause_Analysis_Practice.pdf)   
+    [Root Cause Analysis Quiz](./Six_Sigma_Tools_for_Analyze/Root_Cause_Analysis_Quiz.pdf)      
 
 - Reference
   - [Measurement Systems Analysis (MSA)](https://sixsigmastudyguide.com/measurement-systems-analysis/)
