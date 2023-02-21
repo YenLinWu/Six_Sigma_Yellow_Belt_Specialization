@@ -42,6 +42,9 @@ Course 4: [Six Sigma Tools for Improve and Control]()
   - Week 3   
     [Root Cause Analysis Practice](./Six_Sigma_Tools_for_Analyze/Root_Cause_Analysis_Practice.pdf)   
     [Root Cause Analysis Quiz](./Six_Sigma_Tools_for_Analyze/Root_Cause_Analysis_Quiz.pdf)      
+  - Week 4   
+    [Data Analysis Practice Quiz](./Six_Sigma_Tools_for_Analyze/Data_Analysis_Practice_Quiz.pdf)   
+    [Data Analysis Graded Quiz](./Six_Sigma_Tools_for_Analyze/Data_Analysis_Graded_Quiz.pdf)      
 
 - Reference
   - [Measurement Systems Analysis (MSA)](https://sixsigmastudyguide.com/measurement-systems-analysis/)
